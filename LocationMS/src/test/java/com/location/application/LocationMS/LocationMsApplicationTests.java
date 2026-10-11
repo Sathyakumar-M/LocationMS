@@ -1,0 +1,13 @@
+package com.location.application.LocationMS;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LocationMsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
